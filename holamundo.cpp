@@ -10,6 +10,7 @@ int main()
 {
     // Prints hello world
     cout << "Hell World" <<endl;
+    cout << "Bienvenido a c++"<<endl;
  
     return 0;
 }
